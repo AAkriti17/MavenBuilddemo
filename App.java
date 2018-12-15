@@ -15,7 +15,7 @@ public class App {
 		int c=0;
 		c=i+b;
 		System.out.println(c);
-		system.out.println(Sample);
+	
 
 	}
 
