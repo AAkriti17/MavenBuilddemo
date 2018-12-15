@@ -4,6 +4,7 @@ public class App {
 
 	 String Sample()
 	{
+		 int d=0;
 		return "sample";
 		
 	}
@@ -14,6 +15,7 @@ public class App {
 		int c=0;
 		c=i+b;
 		System.out.println(c);
+		system.out.println(Sample);
 
 	}
 
